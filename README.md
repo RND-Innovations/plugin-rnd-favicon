@@ -1,7 +1,7 @@
 # rnd-favicon
 Adds favicon to the RND Framework using this plugin.
 
-**Plugin Version: 1.0.1**
+**Plugin Version: 1.2.1**
 
 # How to use this?
 
